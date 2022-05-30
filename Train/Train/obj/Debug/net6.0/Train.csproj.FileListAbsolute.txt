@@ -1,0 +1,15 @@
+/Users/stanislavvoronov/RiderProjects/Train/Train/bin/Debug/net6.0/Train
+/Users/stanislavvoronov/RiderProjects/Train/Train/bin/Debug/net6.0/Train.deps.json
+/Users/stanislavvoronov/RiderProjects/Train/Train/bin/Debug/net6.0/Train.runtimeconfig.json
+/Users/stanislavvoronov/RiderProjects/Train/Train/bin/Debug/net6.0/Train.dll
+/Users/stanislavvoronov/RiderProjects/Train/Train/bin/Debug/net6.0/ref/Train.dll
+/Users/stanislavvoronov/RiderProjects/Train/Train/bin/Debug/net6.0/Train.pdb
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/Train.csproj.AssemblyReference.cache
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/Train.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/Train.AssemblyInfoInputs.cache
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/Train.AssemblyInfo.cs
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/Train.csproj.CoreCompileInputs.cache
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/Train.dll
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/ref/Train.dll
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/Train.pdb
+/Users/stanislavvoronov/RiderProjects/Train/Train/obj/Debug/net6.0/Train.genruntimeconfig.cache
